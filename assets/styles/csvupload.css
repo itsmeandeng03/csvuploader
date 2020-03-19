@@ -1,0 +1,20 @@
+#csvfile
+{
+	width: 60%;
+	float: left;
+}
+
+#csvlabel
+{
+	display: inline-block;
+}
+
+#dealer
+{
+	width: 60%;
+}
+
+#submitcsv
+{
+	float: left;
+}
